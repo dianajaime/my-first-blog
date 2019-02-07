@@ -25,7 +25,7 @@ SECRET_KEY = 'wi2%p1(&tcg*!1k0q_&#m9x$nsn!5(x*w626a83(7*w4m17ry$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["dianajaime.pythonanywhere.com"]
+ALLOWED_HOSTS = ['dianajaime.pythonanywhere.com']
 
 
 # Application definition
